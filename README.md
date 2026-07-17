@@ -24,18 +24,19 @@ I’m currently leveling up my skills with two IBM Professional Certifications o
 
 ## 🚀 Featured Projects and Contributions
 
+### [FHIR Ready API](https://github.com/kj-mel/FHIR-Ready-API)
+A demonstration RESTful API built with .NET 8 that transforms raw medical patient data into **FHIR R4**-compliant resources.
+
+
+**Tech:** C#, .NET Web Api, FHIR
+
+---
+
 ### 🧩 [ArbolBinario - Desktop Application - QT](https://github.com/kj-mel/ArbolBinario--Qt)  
 A visual and interactive simulator of Binary Trees built with **Qt**.  
 Includes standard Binary Trees, **BSTs**, and **AVL** trees. 
 
 **Tech:** C++, Qt  
-
----
-
-### 🌱 [Ecosystem Simulator](https://github.com/kj-mel/Simulador-OOP-de-Ecosistema-Interactivo-con-Lenguaje-de-Reglas-Embebido)
-An **object-oriented Python ecosystem simulator** with a custom scripting language for species interaction.
-
-**Tech:** Python, OOP, Custom DSL  
 
 ---
 
